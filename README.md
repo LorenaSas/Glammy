@@ -2,7 +2,10 @@
 
 The website is based on an online shop for men and women. Women have a category dedicated to accessories and cosmetics and men have their own menu for accessories and shoes. Both of them will receive recommendations based on the menu they are browsing.
 The client must create an account and log into it to continue to the checkout. A receipt will be later sent on email with the products that have been purchased.
-
+## The project includes the following technologies: 
+• The interface is designed using HTML, Angular, CSS and BootStrap. <br/>
+• The functionalities include JavaScript, Node.Js, PHP.<br/>
+• For data storage is used MYSQL.<br/>
 
 ## Main Page
 ![1glammy](https://user-images.githubusercontent.com/72438336/127784354-a3d08dc6-b841-4afd-b71c-dca9573685a6.PNG)
